@@ -23,6 +23,7 @@ print ("    " + bidi_text8 + "    ")
 print ("             " + bidi_text5 + "         ")  
 print ("          " + bidi_text4 + "         ")   
 print ("\n")
+print ("L VS Code yan Sublime yan Brackets Taqi bka :)")
 text = "ل بنی بنڤیسه پاسسورد چـەند پیت بن ؟"
 reshaped_text = arabic_reshaper.reshape(text)    
 bidi_text = get_display(reshaped_text)           
